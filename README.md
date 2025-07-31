@@ -76,11 +76,11 @@ termux-setup-storage
 ```
 
 ```bash
-git clone https://github.com/thecarlos19/black-clover-MD 
+git clone https://github.com/cesardy/jin 
 
 ```
 ```bash
-cd black-clover-MD 
+cd jin
 ```
 ```bash
 npm install
