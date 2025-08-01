@@ -88,6 +88,19 @@ npm install
 
 ```bash
 npm start
+ >termux-setup-storage
+> apt update 
+> pkg upgrade 
+> pkg install git -y
+> pkg install nodejs -y
+> pkg install ffmpeg -y
+> pkg install imagemagick -y
+> pkg install yarn
+> yarn install 
+> npm install
+> npm update
+> npm install 
+> npm start
 ```
 
 ⚠️ Si después de ingresar tu número de WhatsApp aparecen letras en rojo, es parte del proceso normal. No te preocupes.
